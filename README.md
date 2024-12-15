@@ -30,9 +30,8 @@
 
 7. **Run the Script Using CMD**  
    - Open **Command Prompt** (CMD).
-   - Type `pyd link` and press **Enter**.  
+   - Type `insta` and press **Enter**.
+   - Then give your link
    - The script will run, and you are good to go!
 
----
 
-This should provide a clear, simple guide for installing and setting up the script, as well as images to visually guide users through the process.
