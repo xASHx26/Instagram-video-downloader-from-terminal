@@ -1,6 +1,4 @@
-Here’s the installation guide formatted as per your request, with the steps and images as described:
 
----
 
 # **How to Install**
 
